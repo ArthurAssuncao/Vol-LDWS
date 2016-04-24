@@ -1,0 +1,10 @@
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+
+<dependency>
+    <groupId>com.github.PhilJay</groupId>
+    <artifactId>MPAndroidChart</artifactId>
+    <version>v2.2.3</version>
+</dependency>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vol-LDWS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="monitorar">Monitorar</string>
+    <string name="monitorando">Monitorando</string>
+    <string name="calibrar">Calibrar</string>
+    <string name="calibrado">Calibrado</string>
+    <string name="calibrando">Calibrando</string>
+    <string name="parar">Parar</string>
+</resources>
